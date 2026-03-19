@@ -23,7 +23,11 @@ Para isso, foram desenvolvidas análises relacionadas a:
 
 - `LENON_MERLO_PARTE_1_TCC.ipynb`: notebook principal com todas as análises da Parte 1.
 - `LENON_MERLO_PARTE_1_TCC.pdf`: versão em PDF do notebook.
-- `table25.csv`: base de dados utilizada no projeto, quando disponível no repositório.
+- `README.md`: descrição geral do projeto.
+
+## Base de dados
+
+A base `table25.csv` não foi incluída neste repositório devido ao tamanho do arquivo. Como se trata da base fornecida para a disciplina, ela deve ser utilizada localmente no mesmo diretório do notebook para reprodução das análises.
 
 ## Principais resultados
 
