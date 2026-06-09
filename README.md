@@ -22,11 +22,6 @@ O projeto esta organizado em duas etapas:
 - `PARTE 2/LENONMERLO_TCC_PARTE_2_VF.pdf` - versoes finais para apresentacao e leitura.
 
 
-### Arquivos de apoio
-
-- `table25.csv` - base original utilizada nas analises.
-- `briefing_uwine_projeto_integrador.pdf` e `lenon-notebook.pdf` - materiais complementares.
-
 ## Tecnologias utilizadas
 
 - Python
